@@ -15,6 +15,8 @@
    <a href="mailto: Manishgupt9211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=flat-square&logo=Gmail&logoColor=white">  
   </a>
+  <a href="https://manishgupt5.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io/" alt="Portfolio" /></a>
   <br/>
 </p>
 </h2>
@@ -22,7 +24,9 @@
 
 ### Languages and Tools 🛠 
 
+
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
