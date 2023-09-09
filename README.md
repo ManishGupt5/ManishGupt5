@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupt</h1>
 <h3 align="center">A passionate backend java developer from Uttar Pradesh ,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishgupt5&label=Profile%20views&color=0e75b6&style=flat" alt="manishgupt5" /> </p>
-
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Spring ,Mysql**
 
 <h2 align="center">
@@ -30,7 +28,6 @@
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
