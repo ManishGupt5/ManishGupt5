@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=flat-square&logo=Gmail&logoColor=white">  
   </a>
   <a href="https://manishgupt5.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io/" alt="Portfolio" /></a>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io/" alt="Portfolio" /> [About Me](https://manishgupt5.github.io/) :   </a>
   <br/>
 </p>
 </h2>
