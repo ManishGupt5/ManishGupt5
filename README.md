@@ -1,3 +1,4 @@
+ ## [About Me](https://manishgupt5.github.io/) :
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupt</h1>
 <h3 align="center">A passionate backend java developer from Uttar Pradesh ,India</h3>
 
@@ -14,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=flat-square&logo=Gmail&logoColor=white">  
   </a>
   <a href="https://manishgupt5.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io/" alt="Portfolio" /> [About Me](https://manishgupt5.github.io/) :   </a>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io/" alt="Portfolio" />  </a>
   <br/>
 </p>
 </h2>
