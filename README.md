@@ -1,11 +1,14 @@
  ## [About Me](https://manishgupt5.github.io/) :
+  <a href="https://manishgupt5.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io/" alt="Portfolio" />  </a>
+    
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupt</h1>
 <h3 align="center">A passionate backend java developer from Uttar Pradesh ,India</h3>
 
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Spring ,Mysql**
 
 <h2 align="center">
-✨ Where you can find me ✨
+ Let's Get Connected
 <p align="center">
   <br/>
   <a href="https://linkedin.com/in/manishgupt5/">
@@ -14,8 +17,6 @@
    <a href="mailto: Manishgupt9211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=flat-square&logo=Gmail&logoColor=white">  
   </a>
-  <a href="https://manishgupt5.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io/" alt="Portfolio" />  </a>
   <br/>
 </p>
 </h2>
