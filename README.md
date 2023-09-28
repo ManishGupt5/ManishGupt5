@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupt</h1>
 <h3 align="center">A passionate backend java developer from Uttar Pradesh ,India</h3>
 
-- 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Spring ,Mysql**
+- 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Hibernate ORM , Spring, Spring boot & Mysql**
 
 <h2 align="center">
  Let's Get Connected
