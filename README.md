@@ -1,4 +1,4 @@
- ## [About Me](https://manishgupt5.github.io/) :
+ ## :man_technologist: [About Me](https://manishgupt5.github.io/) :
  
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupt</h1>
 <h3 align="center">A passionate backend java developer from Uttar Pradesh ,India</h3>
@@ -6,6 +6,8 @@
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Hibernate ORM , Spring, Spring boot & Mysql**
   </br>
 - 👨‍💻 Know more about me <a href="https://ManishGupt5.github.io/">My Portfolio</a>
+
+
 
 ### Connect with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://ManishGupt5.github.io/)
