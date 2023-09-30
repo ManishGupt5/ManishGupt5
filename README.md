@@ -4,6 +4,8 @@
 <h3 align="center">A passionate backend java developer from Uttar Pradesh ,India</h3>
 
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Hibernate ORM , Spring, Spring boot & Mysql**
+  </br>
+- 👨‍💻 Know more about me <a href="https://manishgupt5.github.io/">My Portfolio</a>
 
 ### Connect with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://manishgupt5.github.io/)
@@ -23,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](http://img.shields.io/badge/-swagger-2C2255?style=flat-square&logo=swagger&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 <br/>
