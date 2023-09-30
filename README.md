@@ -5,10 +5,10 @@
 
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Hibernate ORM , Spring, Spring boot & Mysql**
   </br>
-- 👨‍💻 Know more about me <a href="https://Manishgupt5.github.io/">My Portfolio</a>
+- 👨‍💻 Know more about me <a href="https://ManishGupt5.github.io/">My Portfolio</a>
 
 ### Connect with me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://Manishgupt5.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://ManishGupt5.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishgupt5/)
 [![gmail](https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Manishgupt9211@gmail.com)
 
