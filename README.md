@@ -1,26 +1,15 @@
  ## [About Me](https://manishgupt5.github.io/) :
-  <a href="https://manishgupt5.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://manishgupt5.github.io" alt="Portfolio" />  </a>
-    
+ 
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupt</h1>
 <h3 align="center">A passionate backend java developer from Uttar Pradesh ,India</h3>
 
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Hibernate ORM , Spring, Spring boot & Mysql**
 
-<h2 align="center">
- Let's Get Connected
-<p align="center">
-  <br/>
-  <a href="https://linkedin.com/in/manishgupt5/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-   <a href="mailto: Manishgupt9211@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=flat-square&logo=Gmail&logoColor=white">  
-  </a>
-  <br/>
- 
-</p>
-</h2>
+### Connect with me
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://manishgupt5.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishgupt5/)
+[![gmail](https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Manishgupt9211@gmail.com)
+
 
 
 ### Languages and Tools 🛠 
